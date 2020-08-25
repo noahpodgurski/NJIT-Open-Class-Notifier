@@ -1,8 +1,9 @@
 # NJIT-Open-Class-Notifier
 Sends you email when there is a spot open in a section(s) of your choosing
 
-1. Set EMAIL field on line 13: This is where the email gets sent to notify you.
-2. Set FROM and PASSWORDS fields on line 40/41. You will need to create a dummy gmail account with `high security authentification` turned off for this to work.
+1. Set EMAIL field on `line 13`: This is where the email gets sent to notify you.
+2. You will need to create a dummy gmail account with `high security authentification` turned off for this to work.
+3. Set FROM and PASSWORDS fields from your dummy account on `line 40/41`.
 3. Run the program and type in which classes and sections you would like to be alerted for. You can choose multiple classes and sections within the same class.
 
 
